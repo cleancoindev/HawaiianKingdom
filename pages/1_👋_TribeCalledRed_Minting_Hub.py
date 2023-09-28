@@ -1,11 +1,11 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="Halluci-Nation Info Hub",
+    page_title="Hawaiian Nation Art Token and Fundrasing Info Hub",
     page_icon="👋",
 )
 
-st.write("# Welcome to Art Token TurtleShell Information Hub. 👋")
+st.write("# Hawaiian Nation Art Token and Fundrasing Info Hub. 👋")
 
 st.markdown(
     """
