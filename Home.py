@@ -3,10 +3,10 @@ import streamlit as st
 from PIL import Image
 
 # Confit
-st.set_page_config(page_title='TribeCalledRed TurtleShell Info Hub', page_icon=':bar_chart:', layout='wide')
+st.set_page_config(page_title='Hawaiian Nation Art Token and Fundrasing Info Hub', page_icon=':bar_chart:', layout='wide')
 
 # Title
-st.title('Unofficial TribeCalledRed TurtleShell Info Hub')
+st.title('Hawaiian Nation Art Token and Fundrasing Info Hub')
 
 # Content
 c1, c2, c3, c4, c5, c6, c7, c8, c9, c10, c11, c12, c13, c14, c15 = st.columns(15)
@@ -25,14 +25,14 @@ c12.image(Image.open('images/optimism-logo.png'))
 c13.image(Image.open('images/arbitrum-logo.png'))
 c14.image(Image.open('images/axelar-logo.png'))
 
-c16, c17= st.columns(2)
-c16.image(Image.open('images/Screenshot - 8_21_2023 , 3_52_15 PM.png'))
-c17.image(Image.open('images/allenVans.png'))
+#c16, c17= st.columns(2)
+#c16.image(Image.open('images/Screenshot - 8_21_2023 , 3_52_15 PM.png'))
+#c17.image(Image.open('images/allenVans.png'))
 
 
 st.write(
     """
-This Token project for Art and Video Game asset token NFTs is for native american alpha testers at this time only.  If you did not register to be part of this process you should not be here!
+This Token project for Art and Video Game asset token NFTs is for native american/hawaiian alpha testers at this time only.  If you did not register to be part of this process you should not be here!
     """
 )
 
