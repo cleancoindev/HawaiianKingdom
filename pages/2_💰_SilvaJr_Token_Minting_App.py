@@ -2,7 +2,7 @@ import streamlit as st
 import streamlit.components.v1 as components
 
 st.set_page_config(
-    page_title="TurtleShell Shield Matic Claim Page",
+    page_title="Hawaiian Nation Art Token Minting Page",
     page_icon="💰",
 )
 
